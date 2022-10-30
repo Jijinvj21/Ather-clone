@@ -1,0 +1,197 @@
+/* #202023 
+#191919
+#ffdc48 */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+/* @media  (min-width: 768px) 
+{ 
+.search
+{
+    width: 500%;
+}
+
+} */
+.ather450xlink {
+    float: left;
+    text-decoration: none;
+    color: rgba(80, 80, 80, 0.829);
+
+
+}
+
+.ather450x {
+    font-size: 100%;
+    margin-top: 5px;
+}
+
+.test-ridelink {
+    float: right;
+    text-decoration: none;
+    color: rgba(80, 80, 80, 0.829);
+
+}
+
+.test-ride {
+    font-size: 100%;
+    margin-top: 5px;
+    margin-right: 10px;
+
+}
+
+.btn-secondary {
+    width: 90px;
+    font-size: 12px;
+    float: right;
+
+}
+
+.main-banner {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #202023;
+}
+
+.banner-img {
+    width: 100%;
+    height: 60vh;
+
+}
+
+.text-image {
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 4vw;
+}
+
+.search {
+    width: 10%;
+    margin-top: 10%;
+
+}
+
+.search::placeholder {
+    text-align: center;
+}
+
+.container2 {
+    background-color: #191919;
+
+}
+
+@media screen and (min-width: 601px) {
+    .container2-head {
+        font-size: 40px;
+        color: white;
+    }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+    .container2-head {
+        font-size: 25px;
+        color: white;
+    }
+}
+
+.container2-img {
+    padding: 5% 5% 5% 9%;
+}
+
+
+@media screen and (min-width: 601px) {
+    .img-para {
+        font-size: 19px;
+        color: white;
+    }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+    .img-para {
+        font-size: 15px;
+        color: white;
+    }
+}
+
+
+
+
+
+
+
+
+.container3 {
+    background-color: #ffdc48;
+}
+
+.container3-h1 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    
+
+}
+
+.container3-img1 {
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.container3-span1 {
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.container-3-img2 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.container3-span2 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+
+
+
+.container4
+{
+    margin-top: 30px;
+}
+.container4-footer
+{
+    text-align: center;
+    line-height: 0.7;
+
+}
+
+@media screen and (min-width: 601px) {
+    .container4-footer {
+        font-size: 15px;
+        
+    }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+    .container4-footer {
+        font-size: 12px;
+        
+    }
+}

@@ -127,6 +127,11 @@ body {
     }
 }
 
+.img-faster
+{
+       /* overflow-x: hidden; */
+       width: 100%;
+}
 
 
 
